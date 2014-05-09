@@ -1,4 +1,4 @@
-tldjson
+tldjson - convert publicsuffix.org to UTF-8 json
 =======
 
 A small script to throw https://publicsuffix.org/list/effective_tld_names.dat into a pretty, UTF-8 encoded json format
